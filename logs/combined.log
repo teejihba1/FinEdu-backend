@@ -263,3 +263,64 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:38 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:38"}
 {"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:18:38"}
 {"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:18:38"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:42 +0000] \"GET /?reload=1751224724489 HTTP/1.1\" 404 73 \"https://builder.io/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:42"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:43 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:43"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:18:43"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:18:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:48 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:48"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:18:48"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:18:48"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:53 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:53"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:18:53"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:18:53"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:18:58 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:18:58"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:18:58"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:18:58"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:03 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:03"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:03"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:03"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:08 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:08"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:08"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:08"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:13 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:13"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:13"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:13"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:18 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:18"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:18"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:18"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:23 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:23"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:23"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:23"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:28 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:28"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:28"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:28"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:33 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:33"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:33"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:33"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:38 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:38"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:38"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:38"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:43 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:43"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:43"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:43"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:48 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:48"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:48"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:48"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:53 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:53"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:53"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:53"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:19:58 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:19:58"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:19:58"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:19:58"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:20:03 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:20:03"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:20:03"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:20:03"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:20:08 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:20:08"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:20:08"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:20:08"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:20:13 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:20:13"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:20:13"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:20:13"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Jun/2025:19:20:18 +0000] \"GET / HTTP/1.1\" 404 52 \"-\" \"node\"","service":"finedu-backend","timestamp":"2025-06-29 19:20:18"}
+{"level":"info","message":"Retrying database connection...","service":"finedu-backend","timestamp":"2025-06-29 19:20:18"}
+{"level":"error","message":"Database connection failed:","service":"finedu-backend","timestamp":"2025-06-29 19:20:18"}
