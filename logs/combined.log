@@ -1,0 +1,4 @@
+{"level":"info","message":"FinEdu Backend server running on port 5000","service":"finedu-backend","timestamp":"2025-06-29 23:40:35"}
+{"level":"info","message":"Environment: development","service":"finedu-backend","timestamp":"2025-06-29 23:40:35"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.ikowe.mongodb.net","service":"finedu-backend","timestamp":"2025-06-29 23:40:35"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"finedu-backend","timestamp":"2025-06-29 23:40:47"}
